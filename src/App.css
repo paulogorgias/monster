@@ -30,4 +30,7 @@
   to {
     transform: rotate(360deg);
   }
+  }
+h1 {
+ font-family: 'Bigelow Rules', cursive;
 }
