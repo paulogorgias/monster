@@ -2,7 +2,7 @@
   "name": "monsters-roladex",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://paulogorgias.github.io/monster",
+  "homepage": "https://paulogorgias.github.io/monster",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
